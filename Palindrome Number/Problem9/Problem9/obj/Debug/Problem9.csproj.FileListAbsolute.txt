@@ -1,0 +1,7 @@
+F:\vs_projects\AlgorithmTraining\Palindrome Number\Problem9\Problem9\bin\Debug\Problem9.exe.config
+F:\vs_projects\AlgorithmTraining\Palindrome Number\Problem9\Problem9\bin\Debug\Problem9.exe
+F:\vs_projects\AlgorithmTraining\Palindrome Number\Problem9\Problem9\bin\Debug\Problem9.pdb
+F:\vs_projects\AlgorithmTraining\Palindrome Number\Problem9\Problem9\obj\Debug\Problem9.csprojAssemblyReference.cache
+F:\vs_projects\AlgorithmTraining\Palindrome Number\Problem9\Problem9\obj\Debug\Problem9.csproj.CoreCompileInputs.cache
+F:\vs_projects\AlgorithmTraining\Palindrome Number\Problem9\Problem9\obj\Debug\Problem9.exe
+F:\vs_projects\AlgorithmTraining\Palindrome Number\Problem9\Problem9\obj\Debug\Problem9.pdb

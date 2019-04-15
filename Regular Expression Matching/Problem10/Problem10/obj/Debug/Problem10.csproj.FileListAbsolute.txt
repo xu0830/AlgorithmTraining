@@ -1,0 +1,7 @@
+F:\vs_projects\AlgorithmTraining\Regular Expression Matching\Problem10\Problem10\bin\Debug\Problem10.exe.config
+F:\vs_projects\AlgorithmTraining\Regular Expression Matching\Problem10\Problem10\bin\Debug\Problem10.exe
+F:\vs_projects\AlgorithmTraining\Regular Expression Matching\Problem10\Problem10\bin\Debug\Problem10.pdb
+F:\vs_projects\AlgorithmTraining\Regular Expression Matching\Problem10\Problem10\obj\Debug\Problem10.csprojAssemblyReference.cache
+F:\vs_projects\AlgorithmTraining\Regular Expression Matching\Problem10\Problem10\obj\Debug\Problem10.csproj.CoreCompileInputs.cache
+F:\vs_projects\AlgorithmTraining\Regular Expression Matching\Problem10\Problem10\obj\Debug\Problem10.exe
+F:\vs_projects\AlgorithmTraining\Regular Expression Matching\Problem10\Problem10\obj\Debug\Problem10.pdb

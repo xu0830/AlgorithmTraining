@@ -1,0 +1,7 @@
+F:\vs_projects\AlgorithmTraining\ZigZag Conversion\Problem6\Problem6\bin\Debug\Problem6.exe.config
+F:\vs_projects\AlgorithmTraining\ZigZag Conversion\Problem6\Problem6\bin\Debug\Problem6.exe
+F:\vs_projects\AlgorithmTraining\ZigZag Conversion\Problem6\Problem6\bin\Debug\Problem6.pdb
+F:\vs_projects\AlgorithmTraining\ZigZag Conversion\Problem6\Problem6\obj\Debug\Problem6.csprojAssemblyReference.cache
+F:\vs_projects\AlgorithmTraining\ZigZag Conversion\Problem6\Problem6\obj\Debug\Problem6.csproj.CoreCompileInputs.cache
+F:\vs_projects\AlgorithmTraining\ZigZag Conversion\Problem6\Problem6\obj\Debug\Problem6.exe
+F:\vs_projects\AlgorithmTraining\ZigZag Conversion\Problem6\Problem6\obj\Debug\Problem6.pdb

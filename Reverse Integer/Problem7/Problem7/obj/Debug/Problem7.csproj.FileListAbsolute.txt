@@ -1,0 +1,7 @@
+F:\vs_projects\AlgorithmTraining\Reverse Integer\Problem7\Problem7\bin\Debug\Problem7.exe.config
+F:\vs_projects\AlgorithmTraining\Reverse Integer\Problem7\Problem7\bin\Debug\Problem7.exe
+F:\vs_projects\AlgorithmTraining\Reverse Integer\Problem7\Problem7\bin\Debug\Problem7.pdb
+F:\vs_projects\AlgorithmTraining\Reverse Integer\Problem7\Problem7\obj\Debug\Problem7.csprojAssemblyReference.cache
+F:\vs_projects\AlgorithmTraining\Reverse Integer\Problem7\Problem7\obj\Debug\Problem7.csproj.CoreCompileInputs.cache
+F:\vs_projects\AlgorithmTraining\Reverse Integer\Problem7\Problem7\obj\Debug\Problem7.exe
+F:\vs_projects\AlgorithmTraining\Reverse Integer\Problem7\Problem7\obj\Debug\Problem7.pdb

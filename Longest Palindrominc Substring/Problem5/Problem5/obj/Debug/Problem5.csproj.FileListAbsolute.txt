@@ -1,0 +1,7 @@
+F:\vs_projects\AlgorithmTraining\Longest Palindrominc Substring\Problem5\Problem5\bin\Debug\Problem5.exe.config
+F:\vs_projects\AlgorithmTraining\Longest Palindrominc Substring\Problem5\Problem5\bin\Debug\Problem5.exe
+F:\vs_projects\AlgorithmTraining\Longest Palindrominc Substring\Problem5\Problem5\bin\Debug\Problem5.pdb
+F:\vs_projects\AlgorithmTraining\Longest Palindrominc Substring\Problem5\Problem5\obj\Debug\Problem5.csprojAssemblyReference.cache
+F:\vs_projects\AlgorithmTraining\Longest Palindrominc Substring\Problem5\Problem5\obj\Debug\Problem5.csproj.CoreCompileInputs.cache
+F:\vs_projects\AlgorithmTraining\Longest Palindrominc Substring\Problem5\Problem5\obj\Debug\Problem5.exe
+F:\vs_projects\AlgorithmTraining\Longest Palindrominc Substring\Problem5\Problem5\obj\Debug\Problem5.pdb
